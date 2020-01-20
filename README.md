@@ -1,5 +1,7 @@
-1 pipelines per services listed -> will contain multiple deploy and 1 build
-3 Binary for every services could be settings for different autoscale settings
+Configured to have 1 pipelines per Services listed below and will contain multiple deploy to each binary 
+Configured to have 1 Build per services / could be spesified build for every binary
+
+Total 3 Binary for every services could be settings for different autoscale settings
 
 1. Rates (Possible of 3 Binary included cron) 
 ```
